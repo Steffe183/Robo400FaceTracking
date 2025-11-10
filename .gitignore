@@ -1,0 +1,8 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# OS-specific
+*.swp
+*.bak
